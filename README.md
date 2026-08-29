@@ -14,7 +14,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone git@github.com:Sahana2509/Flask_Apllication_with_Github.git
+git clone git@github.com:Sahana2509/Flask_Application_with_Github.git
 cd Flask_Apllication_with_Github
 
 # Create virtual environment
